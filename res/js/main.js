@@ -4,8 +4,8 @@ let image = new Image();
 image.src = "./res/img/logo.png";
 let x = 0;
 let y = 0;
-let xVelocity = 0.5;
-let yVelocity = 0.5;
+let xVelocity = 2;
+let yVelocity = 2;
 let imageWidth = 100;
 let imageHeight = 50;
 
